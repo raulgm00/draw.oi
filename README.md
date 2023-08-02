@@ -1,2 +1,0 @@
-# draw.oi
-Diagramas públicos
