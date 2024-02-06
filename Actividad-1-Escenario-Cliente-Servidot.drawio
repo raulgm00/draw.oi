@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-06T03:41:12.530Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="aNBkyxV0Ep_Bf-aq2zkP" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-06T04:39:30.937Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="tRJZEOUltmlU-WfozEgY" version="22.1.21" type="github">
   <diagram name="Página-1" id="ES5V5NeKtLmDwc8uau69">
     <mxGraphModel dx="1398" dy="2111" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -6,7 +6,7 @@
         <mxCell id="1" parent="0" />
         <UserObject label="" treeRoot="1" id="Ii9kzY7oHffAlNrDL0KR-1">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
-            <mxGeometry x="120" y="8" width="430" height="192" as="geometry" />
+            <mxGeometry x="90" y="8" width="460" height="192" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="Ii9kzY7oHffAlNrDL0KR-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.184;entryY=0.493;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Ii9kzY7oHffAlNrDL0KR-3" target="Ii9kzY7oHffAlNrDL0KR-5">
@@ -20,16 +20,16 @@
         <mxCell id="Ii9kzY7oHffAlNrDL0KR-5" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.data;" vertex="1" parent="1">
           <mxGeometry x="350" y="110" width="48.6" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ii9kzY7oHffAlNrDL0KR-6" value="Escenario 1 - Propuesta 1 Cliente Servidor de Base de Datos Independientes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="117" y="19" width="440" height="30" as="geometry" />
+        <mxCell id="Ii9kzY7oHffAlNrDL0KR-6" value="Escenario 1 - Propuesta 1 Cliente Servidor de Base de Datos Independientes ( Cloud)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="97" y="19" width="480" height="30" as="geometry" />
         </mxCell>
         <UserObject label="" treeRoot="1" id="Ii9kzY7oHffAlNrDL0KR-11">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
-            <mxGeometry x="120" y="220" width="430" height="192" as="geometry" />
+            <mxGeometry x="90" y="220" width="460" height="192" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="Ii9kzY7oHffAlNrDL0KR-15" value="Escenario 1 - Propuesta 2 Cliente/Servidor de Base de Datos (Mismo equipo)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="120" y="235" width="440" height="30" as="geometry" />
+        <mxCell id="Ii9kzY7oHffAlNrDL0KR-15" value="Escenario 1 - Propuesta 2 Cliente/Servidor de Base de Datos (On-premise)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="235.5" width="420" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ii9kzY7oHffAlNrDL0KR-16" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" vertex="1" parent="1">
           <mxGeometry x="287.5" y="290" width="95" height="95" as="geometry" />
