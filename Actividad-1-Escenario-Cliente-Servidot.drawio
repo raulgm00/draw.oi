@@ -1,9 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2024-02-06T03:08:54.083Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.21" etag="WwRUlF27BHWh3CrBZFv1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-06T03:20:23.804Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="cqNJ5CCYLFQBi5klDqBa" version="22.1.21" type="github">
   <diagram name="Página-1" id="ES5V5NeKtLmDwc8uau69">
-    <mxGraphModel>
+    <mxGraphModel dx="801" dy="1909" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <UserObject label="" treeRoot="1" id="Ii9kzY7oHffAlNrDL0KR-1">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+            <mxGeometry x="120" y="8" width="370" height="192" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="Ii9kzY7oHffAlNrDL0KR-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.184;entryY=0.493;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Ii9kzY7oHffAlNrDL0KR-3" target="Ii9kzY7oHffAlNrDL0KR-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ii9kzY7oHffAlNrDL0KR-3" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="1">
+          <mxGeometry x="180" y="100" width="59.03" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ii9kzY7oHffAlNrDL0KR-4" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Service_Bus.svg;" vertex="1" parent="1">
+          <mxGeometry x="20" y="630" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ii9kzY7oHffAlNrDL0KR-5" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.data;" vertex="1" parent="1">
+          <mxGeometry x="350" y="110" width="48.6" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ii9kzY7oHffAlNrDL0KR-6" value="Escenario 1 - Propuesta 1 Cliente Servidor de Base de Datos" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="8" width="350" height="30" as="geometry" />
+        </mxCell>
+        <UserObject label="" treeRoot="1" id="Ii9kzY7oHffAlNrDL0KR-11">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+            <mxGeometry x="120" y="220" width="430" height="192" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="Ii9kzY7oHffAlNrDL0KR-15" value="Escenario 1 - Propuesta 2 Cliente/Servidor de Base de Datos (Mismo equipo)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="220" width="440" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ii9kzY7oHffAlNrDL0KR-16" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="270" y="268.5" width="95" height="95" as="geometry" />
+        </mxCell>
+        <UserObject label="" treeRoot="1" id="Ii9kzY7oHffAlNrDL0KR-17">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+            <mxGeometry x="600" y="8" width="570" height="262" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="Ii9kzY7oHffAlNrDL0KR-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.184;entryY=0.493;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Ii9kzY7oHffAlNrDL0KR-19" target="Ii9kzY7oHffAlNrDL0KR-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ii9kzY7oHffAlNrDL0KR-19" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="1">
+          <mxGeometry x="660" y="100" width="59.03" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ii9kzY7oHffAlNrDL0KR-20" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.data;" vertex="1" parent="1">
+          <mxGeometry x="830" y="110" width="48.6" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ii9kzY7oHffAlNrDL0KR-21" value="Escenario 2 - Propuesta 1 Cliente Servidor de Base de Datos" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="600" y="8" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ii9kzY7oHffAlNrDL0KR-22" value="&lt;span style=&quot;font-size: 20px; font-family: Rajdhani, sans-serif; color: rgb(102, 102, 102); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline;&quot;&gt;Una página web con una base de datos.&amp;nbsp;&lt;/span&gt;&lt;span id=&quot;docs-internal-guid-8cf925f0-7fff-d560-55a3-688dcb275760&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;/span&gt;&lt;span id=&quot;docs-internal-guid-23f4982b-7fff-37f4-737f-ac4e86f17d40&quot;&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="90" y="-50" width="410" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
